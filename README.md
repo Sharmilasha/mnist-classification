@@ -140,6 +140,7 @@ x_single_prediction = np.argmax(
      axis=1)
 
 print(x_single_prediction)
+```
      
 ## OUTPUT
 
